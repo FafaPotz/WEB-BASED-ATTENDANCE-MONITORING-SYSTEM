@@ -1,0 +1,6 @@
+{
+  "name": "Attendance System - College of Sciences College Student Government",
+  "description": "Attendance System for the College of Sciences College Student Government. Role-based attendance tracking, QR code verification, clearance management, and comprehensive reporting.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
